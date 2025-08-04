@@ -8,7 +8,7 @@
 
 <div>
   🎓 I'm a Bachelor of Computer Applications graduate, passionate about crafting immersive and scalable tech experiences.<br/>
-  🔭 Skilled in Java and Web Development, with a focus on building robust, user-centric solutionst<br/>
+  🔭 Skilled in Java and Web Development, with a focus on building robust, user-centric solutions<br/>
   ⚡ Fun fact: <em> The original name for Java was "Oak", inspired by an oak tree that stood outside James Gosling’s office.
 It was later renamed to Java - after the developers' love for Java coffee ☕ from Indonesia!”</em>
 </div>
